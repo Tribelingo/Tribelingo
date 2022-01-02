@@ -1,6 +1,6 @@
 - 👋 Hi, we are @Tribelingo
 - 👀 We're interested in Language
-- 🌱 We're currently develope a local machine translation
+- 🌱 We're currently develope a region machine translation
 - 💞️ We're looking to collaborate on everyone
 - 📫 You can contact us in alopo2573@gmail.com
 
